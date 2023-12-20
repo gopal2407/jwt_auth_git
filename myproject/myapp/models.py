@@ -8,3 +8,5 @@ class MyApp(models.Model):
     student_division = models.CharField(max_length=10)
 
 
+# hello
+# hi
