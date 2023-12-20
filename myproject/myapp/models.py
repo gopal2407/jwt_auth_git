@@ -9,4 +9,3 @@ class MyApp(models.Model):
 
 
 # hello
-# hi
